@@ -62,6 +62,7 @@ private:
     bool canSpeak;
 };
 
+
 int main() {
     setlocale(LC_ALL, "rus");
     Dog dog("Рекс", 5, "коричневый");
